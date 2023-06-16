@@ -1,2 +1,2 @@
 # pedrodev
-upskilling repo
+skillup repo
